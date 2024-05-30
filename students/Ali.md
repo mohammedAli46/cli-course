@@ -7,3 +7,18 @@
 ```
 Currently Learning Github Concepts 
 ```
+
+
+```js
+let a1 = 'hello' == '10';
+console.log(a1);
+
+Output: False
+```
+
+```js
+let a1 = 'hello' === '10';
+console.log(a1);
+
+Output =  False
+```
